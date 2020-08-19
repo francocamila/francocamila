@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Camila Franco 👋
 
-<!--
-**francocamila/francocamila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌠 About Me
+
+
+- 🧠 I’m an intern at Rede Globo, researcher at IBTI and graduating in Electronics Engineering ⚡
+- 👯 I like to colaborate in diverse communities
+
+
+## 🤖 What I am doing
+
+- 🌱 I’m currently learning about Natural Language Processing, Data Science and Analytics.
+- 💬 Ask me about science fiction, cyberpunk and dystopian books. Also, Compressive Sensing :)
+
+## 📬 Find me :)
+
+- 👾 How to reach me: camilafranco@ieee.org and imcamilafranco@gmail.com
+
+
+
+
+
+
