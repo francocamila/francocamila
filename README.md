@@ -5,7 +5,7 @@
 ## 🌠 About Me
 
 
-- 🧠 I’m an intern at Rede Globo, researcher at IBTI and graduating in Electronics Engineering ⚡
+- 🧠 I’m an intern at Rede Globo, researcher at IBTI and undergraduating in Electronics Engineering ⚡
 - 👯 I like to colaborate in diverse communities
 
 
