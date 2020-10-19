@@ -12,7 +12,7 @@
 ## 🤖 What I am doing
 
 - 🌱 I’m currently learning about Natural Language Processing, Flutter and Vue.js.
-- 💬 Ask me about science fiction, cyberpunk and dystopian books. Also, Compressive Sensing :)
+- 💬 Ask me about science fiction, cyberpunk and dystopian novels. Also, Compressive Sensing :)
 
 ## 📬 Find me :)
 
