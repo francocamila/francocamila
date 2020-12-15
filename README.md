@@ -16,7 +16,7 @@
 
 - 👾 How to reach me: camilafranco@ieee.org and imcamilafranco@gmail.com 
 
-<p align="center">[![Linkedin: dacamilafranco](https://img.shields.io/badge/dacamilafranco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dacamilafranco/)](https://www.linkedin.com/in/dacamilafranco/)</p>
+[![Linkedin: dacamilafranco](https://img.shields.io/badge/dacamilafranco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dacamilafranco/)](https://www.linkedin.com/in/dacamilafranco/)
 
 
 
