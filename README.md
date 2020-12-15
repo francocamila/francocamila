@@ -14,8 +14,9 @@
 - :shipit: Ask me about science fiction, cyberpunk and dystopian novels. Also, Compressive Sensing :)
 
 
-- 👾 How to reach me: camilafranco@ieee.org and imcamilafranco@gmail.com
-https://img.shields.io/badge/dacamilafranco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dacamilafranco/
+- 👾 How to reach me: camilafranco@ieee.org and imcamilafranco@gmail.com 
+
+<p align="center">[![Linkedin: dacamilafranco](https://img.shields.io/badge/dacamilafranco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dacamilafranco/)](https://www.linkedin.com/in/dacamilafranco/)</p>
 
 
 
