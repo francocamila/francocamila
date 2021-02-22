@@ -4,13 +4,13 @@
 ## 🌠 About Me 
 
 
-- 🧠 I’m an intern at SEAT, researcher at IBTI and finishing my bachelor's degree in Electronics Engineering ⚡
+- 🧠 I’m a development researcher at IBTI and getting a biomedical engineering master's degree :heartbeat:
 - 👯 I like to colaborate in diverse communities
 
 
 ## 🤖 What I am doing
 
-- :frog: I’m currently learning about Natural Language Processing, Flutter and Vue.js.
+- :frog: I’m currently learning about Natural Language Processing, ML and GANs.
 - :shipit: Ask me about science fiction, cyberpunk and dystopian novels. Also, Compressive Sensing :)
 
 
