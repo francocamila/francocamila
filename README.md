@@ -4,7 +4,7 @@
 ## 🌠 About Me 
 
 
-- 🧠 I’m a developer at IBTI and getting a biomedical engineering master's degree :heartbeat:
+- 🧠 I’m a chatbot developer at Compasso UOL and getting a biomedical engineering master's degree :heartbeat:
 - 👯 I like to colaborate in diverse communities
 
 
